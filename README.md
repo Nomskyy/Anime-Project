@@ -13,15 +13,17 @@
 - Converted the dataset from to an excel table for easy cleaning by higlighting the dataset and cntrl + T
 - Classified all the missing media types as "Unknown"
 - Converted duration from hour to minutes
-- For all the titles with missing duration, Filled it with the average or mode of each media type
+- For all the titles with missing duration, Filled it with the average or median of each media type whichever was lower
 - Filled missing season of Release with "Unknown"
 - Removed the column "description" as it will not be useful for the analysis
 - Removed the special characters in the studio names
-- 
+- Dropped the rows that didn't have a "Start Year"
+- Filled Blank "Finish Year" with unknown since production is still ongoing
 
 
 ###  Insights
-
+- The factors affecting the ratings of anime are:
+- 1.  Season of release:  People tend to drop shows during the spring and fall times than they do in other seasons and watch more during the Winter and Summer time
 
 
 ###  Recommendation

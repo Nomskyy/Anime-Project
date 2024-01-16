@@ -22,9 +22,12 @@
 
 
 ###  Insights
-- The factors affecting the ratings of anime are:
-- 1.  Season of release:  People tend to drop shows during the spring and fall times than they do in other seasons and watch more during the Winter and Summer time
+The factors affecting the ratings of anime are:
+-   Season of release:  People tend to drop shows during the spring and fall times than they do in other seasons and watch more during the Winter and Summer time
+-   Duration:  More people are watching TV than other media types, people are more likely to rate shows with shorter duration
+-   Ongoing- More people are likely to watch if show is no longer ongoing and that also affects the rating
+-   Media type - The audience tend to watch more TV compared to the rest of the media type 
 
 
 ###  Recommendation
-  
+- More 
